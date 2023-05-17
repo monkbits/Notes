@@ -43,3 +43,9 @@ java me date and time se deal krna sikhana he
 https://www.baeldung.com/java-date-difference
 
 date and time important he sbse jayada. chahe php ho ya java 
+
+
+
+![image](https://github.com/mr-monk-here/Notes/assets/131616028/62c6c2ea-949f-4e7a-8a92-25ed6d729880)
+![image](https://github.com/mr-monk-here/Notes/assets/131616028/6aed9ddd-c60a-46c6-b035-195d3e999542)
+
