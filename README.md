@@ -1,6 +1,6 @@
 # Notes
 
-differace between dirname(\__DIR__) and dirname(\__DIR__). 
+differace between dirname(\_\_DIR\_\_) and dirname(\_\_DIR\_\_). 
 
 
 |    sno       |    particulars    |
