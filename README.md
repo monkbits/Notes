@@ -1,5 +1,9 @@
 # Notes
 
+## Index
+
+1: [general-questions-for-oop-in-php](https://github.com/mr-monk-here/Notes#general-questions-for-oop-in-php)
+
 differace between dirname(\_\_DIR\_\_) and dirname(\_\_DIR\_\_).
 
 | sno | particulars |
